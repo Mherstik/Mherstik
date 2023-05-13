@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Twitter][twitter-img]][twitter-url]
+[![Twitch][twitch-img]][twitch-url]
+[![YouTube][youtube-img]][youtube-url]
+[![Keybase][keybase-img]][keybase-url]
+<!-- ![LinkTree][linktree-img]][linktree-url] -->
 ![Marcus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mherstik&show_icons=true&theme=gruvbox)
 ![DMarcus' GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mherstik&show_icons=true&theme=gruvbox&layout=compact)
