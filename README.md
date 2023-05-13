@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Twitter][twitter-img]][twitter-url]
-[![Twitch][twitch-img]][twitch-url]
-[![YouTube][youtube-img]][youtube-url]
-[![Keybase][keybase-img]][keybase-url]
 <!-- ![LinkTree][linktree-img]][linktree-url] -->
 <!-- [twitter-img]: https://img.shields.io/twitter/follow/TheDeltaProto?color=1d9bf0&label=Follow&logo=twitter&style=for-the-badge -->
 
@@ -24,6 +20,11 @@ Here are some ideas to get you started:
 <!-- [linktree-url]: https://linktr.ee/deltaproto -->
 
 -->
+[![Twitter][twitter-img]][twitter-url]
+[![Twitch][twitch-img]][twitch-url]
+[![YouTube][youtube-img]][youtube-url]
+[![Keybase][keybase-img]][keybase-url]
+
 [twitter-img]: https://img.shields.io/badge/follow-%40mherstk?logo=twitter&style=for-the-badge
 [twitter-url]: https://twitter.com/mherstik
 <!-- [twitch-img]: https://img.shields.io/twitch/status/mherstik?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge -->
