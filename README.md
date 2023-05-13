@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <!-- [linktree-img]: https://img.shields.io/badge/LinkTree-Visit-39e09b?logo=linktree&style=for-the-badge -->
 <!-- [linktree-url]: https://linktr.ee/deltaproto -->
 
--->
 [![Twitter][twitter-img]][twitter-url]
 <!--[![Twitch][twitch-img]][twitch-url] -->
 [![YouTube][youtube-img]][youtube-url]
