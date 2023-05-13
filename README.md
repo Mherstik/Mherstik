@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [twitter-url]: https://twitter.com/mherstik
 <!-- [twitch-img]: https://img.shields.io/twitch/status/mherstik?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge -->
 <!-- [twitch-url]: https://twitch.tv/mherstik -->
-[youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCR_rDSaMq_2LvlyKfCKS2uw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
+[youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCjDonajXCRXPuSRjHqd58Vw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
 [youtube-url]: https://www.youtube.com/channel/@mherstik?sub_confirmation=1
 [keybase-img]: https://img.shields.io/keybase/pgp/mherstik?logo=keybase&style=for-the-badge
 [keybase-url]: https://keybase.io/mherstik
