@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 <!-- [linktree-img]: https://img.shields.io/badge/LinkTree-Visit-39e09b?logo=linktree&style=for-the-badge -->
 <!-- [linktree-url]: https://linktr.ee/deltaproto -->
 
-[![Twitter][twitter-img]][twitter-url]
 <!--[![Twitch][twitch-img]][twitch-url] -->
+[![Twitter][twitter-img]][twitter-url]
 [![YouTube][youtube-img]][youtube-url]
 [![Keybase][keybase-img]][keybase-url]
 
-[twitter-img]: https://img.shields.io/badge/follow-%40mherstk?logo=twitter&style=for-the-badge
-[twitter-url]: https://twitter.com/mherstik
 <!-- [twitch-img]: https://img.shields.io/twitch/status/mherstik?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge -->
 <!-- [twitch-url]: https://twitch.tv/mherstik -->
+
+[twitter-img]: https://img.shields.io/badge/follow-%40mherstk?logo=twitter&style=for-the-badge
+[twitter-url]: https://twitter.com/mherstik
 [youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCjDonajXCRXPuSRjHqd58Vw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
 [youtube-url]: https://www.youtube.com/@mherstik?sub_confirmation=1
 [keybase-img]: https://img.shields.io/keybase/pgp/mherstik?logo=keybase&style=for-the-badge
