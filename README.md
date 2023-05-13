@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 [![Twitter][twitter-img]][twitter-url]
-[![Twitch][twitch-img]][twitch-url]
+<!--[![Twitch][twitch-img]][twitch-url] -->
 [![YouTube][youtube-img]][youtube-url]
 [![Keybase][keybase-img]][keybase-url]
 
